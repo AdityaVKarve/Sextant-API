@@ -1,0 +1,24 @@
+{
+  "name": "LongStrangleATMWeekly",
+  "leg_count": 2,
+  "legs": {
+    "Leg 5": {
+      "STRIKE": 0,
+      "TYPE": "CE",
+      "TARGET_TYPE": "NA",
+      "SL_TYPE": "NA",
+      "SL": 0,
+      "EXPIRY TYPE": "WEEKLY",
+      "EXPIRY_LOOKAHEAD": 0
+    },
+    "Leg 6": {
+      "STRIKE": 0,
+      "TYPE": "CE",
+      "TARGET_TYPE": "NA",
+      "SL_TYPE": "NA",
+      "SL": 0,
+      "EXPIRY TYPE": "WEEKLY",
+      "EXPIRY_LOOKAHEAD": 0
+    }
+  }
+}
