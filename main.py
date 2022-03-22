@@ -2,7 +2,7 @@
 from unicodedata import name
 import jwt
 import json
-
+import os
 
 from fastapi import FastAPI, Depends, HTTPException, status
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
